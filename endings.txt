@@ -1,0 +1,11 @@
+atmospheric gas::as::3
+full blast::as::2
+focused::us::1
+half lotus::us::2
+his magnum opus::us::3
+stroke::ok::1
+ghost::ost::1
+lamp post::ost::2
+explode::ode::4
+unload::ode::2
+code::ode::1
